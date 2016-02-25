@@ -8,4 +8,5 @@ Em sistemas operacionais baseados no Debian, para instalar o pacote, basta execu
 
 $ sudo apt-get install sharutils
 
-
+O conteúdo do instalador é composto por código de extração e pelo conteúdo que pode ser instalado, que
+pode ser um arquivo compactado do tipo TAR ou um arquivo binário.
