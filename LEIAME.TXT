@@ -1,0 +1,11 @@
+Este script foi desenvolvido por Italberto Figueira Dantas e seu uso, bem como sua modificação é de uso
+público.
+
+Este script é utilizado para criar um arquivo auto instalável, utilizando ferramentas básicas do Linux.
+A dependência deste arquivo é do comando uuencode, disponível no pacote SHARUTILS.
+
+Em sistemas operacionais baseados no Debian, para instalar o pacote, basta executar o seguinte comando:
+
+$ sudo apt-get install sharutils
+
+
